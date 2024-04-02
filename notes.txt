@@ -1,0 +1,4 @@
+antlr4-main
+antlr4-build
+more Calculator.g4
+echo "1-5*4" | antlr4-test -gui
